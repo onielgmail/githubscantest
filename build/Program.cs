@@ -16,7 +16,7 @@ var app = builder.Build();
 app.MapGet("/", () => new
 {
     Project = "DEXTMTRES",
-    Message = "Welcome to DEXTMTRES .NET Core API",
+    Message = "Welcome to DEXTMTRES .NET Core API to you",
     BuildTag = DextmtresService.BUILD_TAG,
     Version = "1.0.0"
 });
