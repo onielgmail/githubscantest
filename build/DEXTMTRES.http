@@ -1,0 +1,6 @@
+@DEXTMTRES_HostAddress = http://localhost:5200
+
+GET {{DEXTMTRES_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

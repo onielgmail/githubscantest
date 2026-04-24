@@ -1,0 +1,7 @@
+/home/claude/DEXTMTRES/publish/DEXTMTRES
+/home/claude/DEXTMTRES/publish/appsettings.Development.json
+/home/claude/DEXTMTRES/publish/appsettings.json
+/home/claude/DEXTMTRES/publish/DEXTMTRES.dll
+/home/claude/DEXTMTRES/publish/DEXTMTRES.deps.json
+/home/claude/DEXTMTRES/publish/DEXTMTRES.runtimeconfig.json
+/home/claude/DEXTMTRES/publish/DEXTMTRES.pdb
